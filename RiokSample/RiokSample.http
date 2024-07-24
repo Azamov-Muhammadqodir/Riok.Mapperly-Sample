@@ -1,0 +1,6 @@
+@RiokSample_HostAddress = http://localhost:5117
+
+GET {{RiokSample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
